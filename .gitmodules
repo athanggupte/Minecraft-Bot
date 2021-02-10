@@ -1,0 +1,3 @@
+[submodule "pyCraft"]
+	path = pyCraft
+	url = https://github.com/xdevapps/pyCraft.git
